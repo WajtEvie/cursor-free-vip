@@ -704,7 +704,20 @@
         "delete_input_not_found": "لم يتم العثور على حقل تأكيد الحذف بعد عدة محاولات",
         "delete_input_retry": "لم يتم العثور على حقل الحذف، المحاولة {attempt}/{max_attempts}",
         "delete_input_error": "خطأ في العثور على حقل الحذف: {error}",
-        "delete_input_not_found_continuing": "لم يتم العثور على حقل تأكيد الحذف، جارٍ محاولة المتابعة على أي حال"
+        "delete_input_not_found_continuing": "لم يتم العثور على حقل تأكيد الحذف، جارٍ محاولة المتابعة على أي حال",
+        "typed_delete": "تم كتابة \"Delete\" في مربع التأكيد",
+        "confirm_button_not_found": "لم يتم العثور على زر التأكيد بعد عدة محاولات",
+        "confirm_button_retry": "لم يتم العثور على زر التأكيد، المحاولة {attempt}/{max_attempts}",
+        "confirm_button_error": "خطأ في العثور على زر التأكيد: {error}",
+        "account_deleted": "تم حذف الحساب بنجاح!",
+        "error": "خطأ أثناء حذف الحساب: {error}",
+        "success": "تم حذف حساب Cursor الخاص بك بنجاح!",
+        "failed": "فشلت عملية حذف الحساب أو تم إلغاؤها.",
+        "interrupted": "تمت مقاطعة عملية حذف الحساب بواسطة المستخدم.",
+        "unexpected_error": "خطأ غير متوقع: {error}",
+        "found_email": "تم العثور على البريد الإلكتروني: {email}",
+        "email_not_found": "لم يتم العثور على البريد الإلكتروني: {error}",
+        "confirm_prompt": "هل أنت متأكد أنك تريد المتابعة؟ (y/N): "
     },
     "bypass": {
         "starting": "جارٍ بدء تجاوز إصدار Cursor...",
