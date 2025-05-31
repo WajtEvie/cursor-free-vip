@@ -49,11 +49,12 @@
         "fr": "Francês",
         "pt": "Português do Brasil",
         "ru": "Russo",
+        "tr": "Turco",
+        "uk": "Ucraniano",
+        "bg": "Búlgaro",
         "es": "Espanhol",
-        "bg": "búlgaro",
-        "tr": "turco",
-        "ja": "japonês",
-        "it": "italiano"
+        "ja": "Japonês",
+        "it": "Italiano"
     },
     "quit_cursor": {
         "start": "Iniciando fechamento do Cursor",
