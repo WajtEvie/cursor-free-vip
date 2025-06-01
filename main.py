@@ -162,6 +162,8 @@ class Translator:
                     return 'ru'      # Russian
                 case 0x0415:
                     return 'tr'      # Turkish
+                case 0x0422:
+                    return 'uk'      # Ukrainian
                 case 0x0402:
                     return 'bg'      # Bulgarian
                 case 0x0401:

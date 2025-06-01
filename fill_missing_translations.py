@@ -44,6 +44,7 @@ LANGUAGE_MAPPING = {
     "pt": "pt",        # Portuguese
     "ru": "ru",        # Russian
     "tr": "tr",        # Turkish
+    "uk": "uk",        # Ukrainian
     "vi": "vi",        # Vietnamese
     # Add more mappings as needed
 }
